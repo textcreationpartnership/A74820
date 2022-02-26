@@ -1,0 +1,253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>King Charls his speech made upon the scaffold at Whitehall-Gate, immediately before his execution, on Tuesday the 30 of Ian. 1648. VVith a relation of the maner of his going to execution. / Published by special authority.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74820</idno>
+            <idno type="STC">Wing C2792</idno>
+            <idno type="STC">Thomason E540_17</idno>
+            <idno type="STC">ESTC R206023</idno>
+            <idno type="EEBO-CITATION">99865229</idno>
+            <idno type="PROQUEST">99865229</idno>
+            <idno type="VID">117466</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74820)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117466)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E540[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>King Charls his speech made upon the scaffold at Whitehall-Gate, immediately before his execution, on Tuesday the 30 of Ian. 1648. VVith a relation of the maner of his going to execution. / Published by special authority.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>14, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Peter Cole, at the sign of the Printing-Press in Cornhil, near the Royal-Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>In this edition, "London" in imprint has swash n's.</note>
+                  <note>Annotation on Thomason copy: "1648"; the "9" in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117466:1"/>
+            <pb facs="tcp:117466:1" rendition="simple:additions"/>
+            <p>King Charls HIS SPEECH Made upon the SCAFFOLD at <hi>Whitehall</hi>-Gate, Immediately before his Execution, On Tueſday the 30 of <hi>Ian.</hi> 1648.</p>
+            <p>VVith a Relation of the maner of his going to Execution.</p>
+            <p>
+               <hi>Publiſhed by special Authority.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Peter Cole,</hi>
+at the Sign of the Printing-Preſs in Cornhil, near
+the Royal-Exchange. 1649.</p>
+            <pb facs="tcp:117466:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:117466:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117466:3"/>
+            <pb n="3" facs="tcp:117466:3"/>
+            <head>King Charls HIS SPEECH</head>
+            <head type="sub">Made upon the Scaffold at <hi>White<g ref="char:EOLhyphen"/>hall</hi>-Gate, immediately before his Execution.</head>
+            <div type="prologue">
+               <opener>
+                  <dateline>
+                     <date>Tueſday, Ianuary 30.</date>
+                  </dateline>
+               </opener>
+               <p>ABout ten in the Morning the King was brought from St. James's walking on foot through the Park, with a Regiment of Foot, part before and part behinde him, with Colours flying, Drums beating, his private Guard of Par<g ref="char:EOLhyphen"/>tizans, with ſome of his Gentlemen before, and ſome behinde bareheaded, D. JUXON
+<pb n="4" facs="tcp:117466:4"/>
+next behinde him, and Col: <hi>Thomlinſon</hi> (who had the charge of him) talking with the King bareheaded from the Park, up the ſtairs in<g ref="char:EOLhyphen"/>to the Gallery, and ſo into the <note n="*" place="margin">It is obſervd, The King de<g ref="char:EOLhyphen"/>ſired to have the uſe of the Cabinet, and the little room next it, where there was a Trap-door.</note> Cabinet-Chamber, where he uſed to lie, where he continued at his Devotion, refuſing to dine (having before taken the Sacrament) only about an hour before he came forth, he drank a glaſs of Claret wine, and eat a piece of bread about twelve at noon.</p>
+               <p>From thence he was accompanied by Dr. <hi>Iuxon,</hi> Col: <hi>Thomlinſon,</hi> and other Officers, for<g ref="char:EOLhyphen"/>merly appointed to attend him, and the pri<g ref="char:EOLhyphen"/>vate Guard of Partizans, with Musketiers on each ſide, through the Banqueting-houſe adjoyning, to which the <note n="*" place="margin">It was near (if not in) the very place where the firſt blood in the beginning of the late trou<g ref="char:EOLhyphen"/>bles was ſhed when the Kings Cava<g ref="char:EOLhyphen"/>liers fell upon the Citizens, killed one, and wounded about <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o others.</note> Scaffold was erected, between Whitehall Gate, and the Gate leading into the Gallery from St. James's: The Scaffold was hung round with black, and the floor covered with black, and the Ax and Block laid in the mid<g ref="char:EOLhyphen"/>dle of the Scaffold. There were divers com<g ref="char:EOLhyphen"/>panies of Foot, and Troops of Horſe placed on the one ſide the Scaffold towards Kings-ſtreet, and on the other ſide towards Cha<g ref="char:EOLhyphen"/>ring
+<pb n="5" facs="tcp:117466:4"/>
+Croſs, and the multitudes of people that came to be Spectators, very great.</p>
+               <p>The King being come upon the Scaffold, look'd very earneſtly on the Block, and asked Col: <hi>Hacker</hi> if there were no higher; and the ſpake thus (directing his ſpeech chiefly to Col: <hi>Thomlinſon</hi>)</p>
+            </div>
+            <div type="scaffold_speech">
+               <sp>
+                  <speaker>King</speaker>
+                  <p>I Shall be very little heard of any body here, I ſhall therefore ſpeak a word unto you here; indeed I could hold my peace very wel, if I did not think that holding my peace, would make ſome men think that I did ſubmit to the guilt, as well as to the puniſhment; but I think it is my duty to God firſt, and to my countrey, for to clear my ſelf both as an honeſt man, and a good King, and a good Chriſtian. I ſhall begin firſt with my Innocency, In troth I think it not very needful for me to inſiſt long upon this, for all the world knows that I never did begin a War with the two Houſes of Parliament, and I call God to witneſs, to whom I muſt ſhortly make an account that I never did intend for to incroach upon
+<pb n="6" facs="tcp:117466:5"/>
+their Priviledges, they began upon me, it is the Militia they began upon, they con<g ref="char:EOLhyphen"/>feſt that the Militia was mine, but they thought it fit for to have it from me; and to be ſhort, if any body will look to the dates of Commiſsions, of their Commiſſi<g ref="char:EOLhyphen"/>ons and mine, and likewiſe to the Declarati<g ref="char:EOLhyphen"/>ons, wil ſee clearly that they began theſe un<g ref="char:EOLhyphen"/>happy troubles, not I; ſo that as the guilt of theſe Enormous crimes that are laid againſt me, I hope in God that God will clear me of it, I will not, I am in charity; God for<g ref="char:EOLhyphen"/>bid that I ſhould lay it upon the two Hou<g ref="char:EOLhyphen"/>ſes of Parliament, there is no neceſsity of either, I hope they are free of this guilt; for I do believe that ill inſtruments between them and me, has been the chief cauſe of all this bloodſhed; ſo that by way of ſpeaking, as I finde my ſelf clear of this, I hope (and pray God) that they may too; yet for all this, God forbid that I ſhould be ſo ill a Chriſti<g ref="char:EOLhyphen"/>an, as not to ſay that Gods Judgements are juſt upon me: Many times he does pay Juſtice by an unjuſt Sentence, that is ordi<g ref="char:EOLhyphen"/>nary; I will onely ſay this, That an unjuſt
+<pb n="7" facs="tcp:117466:5"/>
+Sentence <note n="*" place="margin">
+                        <hi>Strafford.</hi>
+                     </note> that I ſuffered for to take ef<g ref="char:EOLhyphen"/>fect, is puniſhed now, by an unjuſt Sen<g ref="char:EOLhyphen"/>tence upon me; that is, ſo far I have ſaid, to ſhew you that I am an innocent man.</p>
+                  <p>Now for to ſhew you that I am a good Chriſtian: I hope there is <stage n="*" place="margin">Pointing to Dr. Iuxon.</stage> a good man that will bear me witneſs, That I have forgiven all the world, and even thoſe in particular that have been the chief cauſers of my death; who they are, God knows, I do not deſire to know, I pray God forgive them. But this is not all, my charity muſt go further, I wiſh that they may repent, for indeed they have committed a great ſin in that particular, I pray God with St. <hi>Stephen,</hi> That this be not laid to their charge; nay, not onely ſo, but that they may take the right way to the Peace of the Kingdom, for my charity commands me not onely to forgive particular men, but my charity commands me to endeavor to the laſt gaſp the peace of the kingdom: So (Sirs) I do wiſh with all my ſoul, and I do hope (there is <stage n="*" place="margin">Turning to ſome Gentle<g ref="char:EOLhyphen"/>men that wro<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e.</stage> ſome here will carry it further)
+<pb n="8" facs="tcp:117466:6"/>
+that they may endeavor the Peace of the Kingdom. Now (Sirs) I muſt ſhew you both how you are out of the way and will put you in a way; firſt, you are out of the way, for certainly all the way you ever have had yet as I could finde by any thing, is in the way of Conqueſt; certainly this is an ill way, for Con<g ref="char:EOLhyphen"/>queſt (Sir) in my opinion is never juſt, except there be a good juſt Cauſe, either for matter of wrong or juſt Title, and then if you go beyond it, the fiſt quarrel that you have to it, that makes it unjuſt at the end, that was juſt at firſt: But if it be only matter of Conqueſt, then it is a great Rob<g ref="char:EOLhyphen"/>bery; as a Pirat ſaid to <hi>Alexander,</hi> that He was the great Robber, he was but a petty Robber; and ſo, Sir, I do think the way that you are in, is much out of the way. Now Sir, for to put you in the way, believe it you will never do right, nor God will never proſper you, until you give God his due, the King his due (that is, my Suc<g ref="char:EOLhyphen"/>ceſſors) and the People their due; I am as much for them as any of you: You
+<pb n="9" facs="tcp:117466:6"/>
+muſt give God his due, by regulating rightly his Church (according to his Scripture) which is now out of order: For to ſet you in a way particularly now I cannot, but onely this, A National Synod freely called, freely debat<g ref="char:EOLhyphen"/>ing among themſelves, muſt ſettle this; when that every Opinion is freely and cleerly heard.</p>
+                  <p>For the King, indeed I will not, (then turn<g ref="char:EOLhyphen"/>ing to a Gentleman that touched the Ax, ſaid, Hurt not the Ax that may hurt me <note n="*" place="margin">Meaning if he did blunt the edg.</note>. For the King:) The Laws of the Land will clearly in<g ref="char:EOLhyphen"/>ſtruct you for that; therefore, becauſe it con<g ref="char:EOLhyphen"/>cerns My Own particular, I onely give you a touch of it.</p>
+                  <p>For the people. And truly I deſire their Liberty and Freedom, as much as any Body whomſoever; but I muſt tell you, That their Liberty and their Freedom conſiſts in having of Government; thoſe Laws, by which their Life and their Goods, may be moſt their own. It is not for having ſhare in Government (Sir)
+<pb n="10" facs="tcp:117466:7"/>
+that is nothing pertaining to them. Subject and a Soveraign, are clean different things; and therefore, until they do that, I mean, That you do put the people in that Liberty as I ſay certainly they will never enjoy them<g ref="char:EOLhyphen"/>ſelves.</p>
+                  <p>Sirs, It was for this, that now I Am come here: If I would have given way to an Arbitrary way, for to have all Laws changed according to the power of the Sword, I needed not to have come here; and therefore, I tell you, (and I pray God it be not laid to your charge) That I Am the Martyr of the People.</p>
+                  <p>In troth Sirs, I ſhall not hold you much longer; for I will Onely ſay this to you, That in truth, I could have deſired ſome little time longer, becauſe that I would have put this that I have ſaid, in a little more order, and a little better digeſted, then I have done; and therefore I hope you will excuſe Me.</p>
+                  <p>
+                     <pb n="11" facs="tcp:117466:7"/>I have delivered my Conſcience, I pray God, that you do take thoſe courſes that are beſt for the good of the Kingdom, and your own Salvation.</p>
+               </sp>
+               <sp>
+                  <speaker>Doctor <hi>Juxon.</hi>
+                  </speaker>
+                  <p>Will Your Majeſty (though it may be very well known Your Majeſties Affections to Religion, yet it may be expected, that You ſhould) ſay ſomewhat for the Worlds ſatis<g ref="char:EOLhyphen"/>faction.</p>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <p>I thank you very heartily (my Lord) for that, I had almoſt forgotten it. In troth Sirs, My Conſcience in Religion, I think, is very well known to all the World, and therefore, I declare before you all, That I die a Chriſtian according to the Profeſſion of the Church of ENGLAND, as I found it left Me by My Father; and this honeſt man <stage n="*" place="margin">Point<g ref="char:EOLhyphen"/>ing to Dr. <hi>Juxon.</hi>
+                     </stage> I think will witneſs it.</p>
+               </sp>
+               <p>Then turning to the Officers ſaid, <q>Sirs, excuſe me for this ſame. I have a good Cauſe, and I have a gracious God; I will
+<pb n="12" facs="tcp:117466:8"/>
+ſay no more.</q> Then turning to Colonel <hi>Hacker,</hi> he ſaid, <q>Take care that they do not put Me to pain, and Sir this, and it pleaſe you:</q> But then a Gentleman coming neer the Ax, the King ſaid, <q>Take heed of the Ax, pray take heed of the Ax.</q> Then the King ſpeaking to the Executioner, ſaid, I ſhall ſay but very ſhort Prayers, and when I thruſt out My hands —. Then the King called to Doctor <hi>Iuxon</hi> for His Night-Cap, and having put it on, He ſaid to the Executioner, <q>Does My Hair trouble you?</q> Who deſired Him to put it all under His Cap, which the King did accordingly, by the help of the Executioner and the Biſhop: then the King turning to Doctor <hi>Iuxon</hi> ſaid, <q>I have a good Cauſe, and a gracious God on my ſide.</q>
+               </p>
+               <sp>
+                  <speaker>Doctor <hi>Juxon.</hi>
+                  </speaker>
+                  <p>There is but one Stage more. This Stage is turbulent and troubleſome; it is a ſhort one: But You may conſider it will ſoon carry You a very great way; it will carry You from Earth to Heaven; and there You ſhall finde
+<pb n="13" facs="tcp:117466:8"/>
+a great deal of Cordial, Joy, and Com<g ref="char:EOLhyphen"/>fort.</p>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <p>I go from a corruptible, to an incorrupti<g ref="char:EOLhyphen"/>ble Crown; where no diſturbance can be, no diſturbance in the World.</p>
+               </sp>
+               <sp>
+                  <speaker>Doctor <hi>Juxon.</hi>
+                  </speaker>
+                  <p>You are exchanged from a Temporal to an eternal Crown; a good exchange.</p>
+               </sp>
+               <p>The King then ſaid to the Executioner, is My Hair well: Then the King took off His Cloak and His George, giving His George to Doctor <hi>Iuxon,</hi> ſaying, <q>Remember <note n="*" place="margin">It is thought for to give it to the Prince.</note> —</q> Then the King put off His Dublet, and being in His Waſtecoat, put His Cloak on again; then looking upon the block, ſaid to the Executioner, <q>You muſt ſet it faſt.</q>
+               </p>
+               <sp>
+                  <speaker>Executioner.</speaker>
+                  <p>It is faſt Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <p>It might have been a little higher.</p>
+               </sp>
+               <sp>
+                  <speaker>Executioner.</speaker>
+                  <p>It can be no higher Sir.</p>
+               </sp>
+               <sp>
+                  <pb n="14" facs="tcp:117466:9" rendition="simple:additions"/>
+                  <speaker>King.</speaker>
+                  <p>When I put out my hands this way <stage n="*" place="margin">Stretch<g ref="char:EOLhyphen"/>ing them out.</stage> then —.</p>
+               </sp>
+               <p>After that having ſaid two or three words (as he ſtood) to Himſelf with hands and eyes lift up, Immediately ſtooping down, laid His Neck upon the Block: And then the Exe<g ref="char:EOLhyphen"/>cutioner again putting his Hair under his Cap, the King ſaid, <note n="*" place="margin">Think<g ref="char:EOLhyphen"/>ing he had bin going to ſtrike.</note> 
+                  <q>Stay for the ſigne.</q>
+               </p>
+               <sp>
+                  <speaker>Executioner.</speaker>
+                  <p>Yes, I will, and it pleaſe Your Majeſty.</p>
+               </sp>
+               <p>And after a very little pawſe, the King ſtretching forth his hands, The Executioner at one blow, ſevered his head from his Body.</p>
+               <p>That when the Kings head was cut off the Executioner held it up, and ſhewed it to the Spectators.</p>
+               <p>And his Body was put in a Coffin, covered with black Velvet, for that purpoſe.</p>
+               <p>The Kings Body now lies in His Lodging Chamber in Whitehall.</p>
+               <epigraph>
+                  <q>Sic tranſit gloria mundi.</q>
+               </epigraph>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
